@@ -1,4 +1,3 @@
-# WhatDoesDaFoxSay - Reading Practice Application
 
 A web-based reading practice application designed for children with dyslexia, featuring eye tracking, voice recognition, and AI-powered content generation.
 
